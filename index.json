@@ -308,6 +308,14 @@
             "file": "guides/token_guides/en/zcash.md",
             "updated_at": "2020-11-15"
           }
+              },
+            {
+          "en": {
+            "title": "Metaegg DeFi $MDEFI",
+            "image": "guides/token_guides/images/$MDEFI.png",
+            "file": "guides/token_guides/en/mdefi.md",
+            "updated_at": "2020-06-01"
+          }
         }
       ]
     },
@@ -476,14 +484,7 @@
             "file": "guides/token_guides/en/makerdao.md",
             "updated_at": "2020-06-01"
           }
-             },
-            {
-          "en": {
-            "title": "Metaegg DeFi $MDEFI",
-            "image": "guides/token_guides/images/$MDEFI.png",
-            "file": "guides/token_guides/en/mdefi.md",
-            "updated_at": "2020-06-01"
-          }
+           
         }
       ]
     }
