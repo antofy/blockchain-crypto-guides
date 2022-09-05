@@ -10,16 +10,16 @@ Let's go over tools and know-how needed to get you started on a practical level.
 
 - A single DeFi service can have multiple websites/apps depending on its popularity. Since smart contracts reside on always-online blockchain anyone can build a graphical gateway to them in a form of a website or a mobile app.
 
-- DeFi services require user to connect to the service using a [non-custodial](../../fundamentals/en/2-wallets-basics.md) cryptocurrency wallet like Unstoppable. The wallet is your way to authenticate and connect to the smart contract.
+- DeFi services require user to connect to the service using a [non-custodial](../../fundamentals/en/2-wallets-basics.md) cryptocurrency wallet like Metaegg DeFi. The wallet is your way to authenticate and connect to the smart contract.
 
 ## Getting Started
 
-Connecting to a DeFi service merely requires a non-custodial wallet with "WalletConnect" capability. Majority of well engineered non-custodial wallets (like Unstoppable, Trust or MEW) support "WalletConnect" feature.
+Connecting to a DeFi service merely requires a non-custodial wallet with "WalletConnect" capability. Majority of well engineered non-custodial wallets (like Metaegg DeFi, Trust or MEW) support "WalletConnect" feature.
 
 1. When you're ready to DeFi, open the web browser and navigate to the DeFi service website you would like to use. 
 2. Once there look for 'connect wallet' button or a similar option. Click on it and look for "WalletConnect" option.
 3. Selecting "WalletConnect" option should present a popup window with a QR code.
-4. Open the wallet app and look for "WalletConnect" feature. On Unstoppable, the option located in Settings tab.
+4. Open the wallet app and look for "WalletConnect" feature. On Metaegg DeFi, the option located in Settings tab.
 5. Clicking on "WalletConnect" feature in the wallet app should open the QR code scanner. Use it to scan the QR code presented in step 3.
 6. Click on Connect button.
 
