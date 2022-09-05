@@ -1,6 +1,6 @@
 ![](../images/05-main-l.png)
 
-# Unstoppable Wallet
+# Metaegg DeFi Wallet
 
 In diesem Abschnitt konzentrieren wir uns auf praktische Aspekte und gehen auf „Wissenswertes“ bei der Verwendung von Non-Custodial Wallet-Apps ein.
 
@@ -12,9 +12,9 @@ Aus der Sicht der Nutzer sollten die grundlegenden Erwartungen an jede Non-Custo
 
 Abgesehen von den oben genannten „Must-Haves“ kann es je nach Zielgruppe andere Erwartungen an das Wallet geben. Wer eine umfassende Privatsphäre wünscht, benötigt möglicherweise zusätzliche private Funktionen, die in den meisten Wallet-Apps nicht verfügbar sind.
 
-> **Disclaimer: Das [Unstoppable Wallet](https://unstoppable.money) wurde von [Horizontal Systems](https://horizontalsystems.io), hergestellt, dem Unternehmen hinter diesen Leitfäden.**
+> **Disclaimer: Das Metaegg DeFi wallet wurde von Metaegg DeFi, hergestellt, dem Unternehmen hinter diesen Leitfäden.**
 
-Im Folgenden gehen wir auf einige wichtige Punkte ein, die bei der Verwendung von Non-Custodial Wallet-Apps zu beachten sind. Wir werden die Unstoppable Wallet-App verwenden, um diese wichtigen Aspekte zu veranschaulichen.
+Im Folgenden gehen wir auf einige wichtige Punkte ein, die bei der Verwendung von Non-Custodial Wallet-Apps zu beachten sind. Wir werden die Metaegg DeFi Wallet-App verwenden, um diese wichtigen Aspekte zu veranschaulichen.
 
 ### 1. Einrichten / Wiederherstellen 
 
@@ -23,7 +23,7 @@ Jede Non-Custodial Wallet beginnt entweder mit dem Prozess der Einrichtung eines
 ![portrait](../images/05-02-s.png)
 
 - Die Schaltfläche „Wallet erstellen“ generiert einen neuen Private Key und zeigt diesen in einer Form von 12 Wörtern an, die gespeichert werden müssen.
-- Die Option „Wallet wiederherstellen“ stellt ein existierendes Wallet wieder her, das früher in Unstoppable oder einem anderen standardkonformen Wallet erstellt worden sein könnte.
+- Die Option „Wallet wiederherstellen“ stellt ein existierendes Wallet wieder her, das früher in Metaegg DeFi oder einem anderen standardkonformen Wallet erstellt worden sein könnte.
 	
 Denken Sie daran, dass die Wiederherstellung von Custodial Wallets zwischen einigen Minuten bis zu einigen Stunden dauern kann.
 
