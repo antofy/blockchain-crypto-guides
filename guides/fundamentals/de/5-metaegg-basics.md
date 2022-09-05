@@ -20,7 +20,8 @@ Im Folgenden gehen wir auf einige wichtige Punkte ein, die bei der Verwendung vo
 
 Jede Non-Custodial Wallet beginnt entweder mit dem Prozess der Einrichtung eines Wallets oder der Migration des bestehenden Wallets.
 
-![portrait](../images/05-02-s.png)
+
+![1](https://user-images.githubusercontent.com/98596722/188339544-01919665-c915-401c-8548-6ba9db98e6f5.png)
 
 - Die Schaltfläche „Wallet erstellen“ generiert einen neuen Private Key und zeigt diesen in einer Form von 12 Wörtern an, die gespeichert werden müssen.
 - Die Option „Wallet wiederherstellen“ stellt ein existierendes Wallet wieder her, das früher in Metaegg DeFi oder einem anderen standardkonformen Wallet erstellt worden sein könnte.
@@ -53,7 +54,7 @@ Während für gewisse Kryptowährungen Transaktionen günstig sind, können die 
 
 Es gibt zwar viele verschiedene Kryptowährungen, aber es fehlt an Informationen, die diese Projekte in zugänglicher Form beschreiben. Viele Projekte sind selbst für erfahrene Einsteiger mit technischem Hintergrund ziemlich undurchsichtig.
 
-Unstoppable will in einfachen Worten einen umfassenden Überblick über die verschiedenen Kryptowährungen geben.
+Metaegg DeFi will in einfachen Worten einen umfassenden Überblick über die verschiedenen Kryptowährungen geben.
 
 ![portrait](../images/05-05-s.png)
 
@@ -71,11 +72,11 @@ Historische Preise geben einen Überblick darüber, wie sich der Preis der Krypt
 
 Zusätzlich zu den Preis-Charts ist es hilfreich, Benachrichtigungen für Preisänderungen zu erhalten.
 
-Ein Wallet wie Unstoppable kann den Benutzer benachrichtigen, wenn sich der Anlagenpreis innerhalb von 24 Stunden um mehr als 2/3/5% verändert hat.
+Ein Wallet wie Metaegg DeFi kann den Benutzer benachrichtigen, wenn sich der Anlagenpreis innerhalb von 24 Stunden um mehr als 2/3/5% verändert hat.
 
 ![portrait](../images/05-07-s.png)
 
-Darüber hinaus kann das Unstoppable Warnungen versenden, wenn sich der Preistrend der Kryptowährung ändert, was auf einen guten Zeitpunkt für den Kauf oder Verkauf einer bestimmten Kryptowährung hinweist.
+Darüber hinaus kann das Metaegg DeFie Warnungen versenden, wenn sich der Preistrend der Kryptowährung ändert, was auf einen guten Zeitpunkt für den Kauf oder Verkauf einer bestimmten Kryptowährung hinweist.
 
 ### 7. Privatsphäre
 
@@ -95,13 +96,13 @@ Bestimmte Punkte sollten bei der Bewertung eines Non-Custodial Wallets im Hinbli
     
     Obwohl diese Methode für den Wallet-Anbieter praktisch ist, kann sie unter Umständen bestimmte Informationen über den Kontostand und die Transaktionen des Benutzers offenlegen.
     
-    Um dem entgegenzuwirken, unterstützen einige Wallets wie Unstoppable die Wiederherstellung direkt aus dem Blockchain-Netzwerk selbst und nicht über einen Server eines Drittanbieters. Dadurch wird sichergestellt, dass der Wallet-Anbieter keinerlei Informationen über Guthaben oder Transaktionen des Benutzers hat.
+    Um dem entgegenzuwirken, unterstützen einige Wallets wie Metaegg DeFi die Wiederherstellung direkt aus dem Blockchain-Netzwerk selbst und nicht über einen Server eines Drittanbieters. Dadurch wird sichergestellt, dass der Wallet-Anbieter keinerlei Informationen über Guthaben oder Transaktionen des Benutzers hat.
     
 - **Blockchain-Privatsphäre**
 
     Verschiedene Blockchains bieten ein unterschiedliches Maß an Privatsphäre: Wenn Sie mit Bitcoin handeln, ist das Maß an Privatsphäre höher als im Vergleich zu Ethereum.
     
-    Bestimmte Non-Custodial Wallets können zusätzliche Merkmale aufweisen, die den Datenschutz auf dieser speziellen Blockchain erhöhen. Zum Beispiel integriert die Unstoppable Wallet-App bestimmte Instrumente, die das Verbinden verschiedener Blockchain-Transaktionen mit einer einzigen Einheit erheblich erschweren.
+    Bestimmte Non-Custodial Wallets können zusätzliche Merkmale aufweisen, die den Datenschutz auf dieser speziellen Blockchain erhöhen. Zum Beispiel integriert die Metaegg DeFi Wallet-App bestimmte Instrumente, die das Verbinden verschiedener Blockchain-Transaktionen mit einer einzigen Einheit erheblich erschweren.
     
 Auch wenn sich viele Wallets als Non-Custodial Wallet und Peer-to-Peer bezeichnen, können sie dennoch Datenschutzrisiken bergen. Das privateste Wallet ist jenes, das absolut nichts über den Benutzer weiß.
 
