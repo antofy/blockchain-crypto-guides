@@ -22,7 +22,8 @@ Below we will go through some important points to keep in mind when using non-cu
 
 Every non-custodial wallet starts either with the process of a wallet setup or migration of the existing wallet.
 
-![portrait](https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/master/fundamentals/images/05-02-s.png)
+
+![1](https://user-images.githubusercontent.com/98596722/188486711-25fd8d4a-9606-4840-bdbb-bf4162fd356f.png)
 
 - The 'Create Wallet' button generates a new private key and shows it in a form of 12 words which needs to be backed up.
 - The 'Restore Wallet' option restores an existing wallet that might have been created earlier in Metaegg DeFi or some other standard compliant wallet. 
