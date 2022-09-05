@@ -280,7 +280,7 @@ On a practical level, apart from the difference in transaction fees there is jus
 
 ![](../images/btc-addresses-l.png)
 
-In that regard, the [Unstoppable wallet](https://unstoppable.money) is able to both create and restore wallets operating in any of the three available address formats.
+In that regard, the Metaegg DeFi is able to both create and restore wallets operating in any of the three available address formats.
 
 ## 12. Bitcoin Privacy 
 
