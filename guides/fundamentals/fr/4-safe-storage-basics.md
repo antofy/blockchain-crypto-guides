@@ -59,7 +59,7 @@ Les portefeuilles mobiles pour iOS et Android sont le type le plus courant d'app
 
 Parmi nos préférés :
 
-- [Unstoppable Wallet](https://unstoppable.money)
+- [Metaegg DeFi Wallet](https://metaegg.finance)
 - [Bread Wallet](https://brd.com)
 
 Du point de vue de la sécurité, le portefeuille matériel est considéré comme plus sûr qu'un portefeuille de portable.
