@@ -229,7 +229,7 @@ When you're ready to get involved with the Bitcoin on a practical level you're w
 2. [Wallet Basics](../../fundamentals/en/2-wallets-basics.md)
 3. [Private Keys Explained](../../fundamentals/en/3-private-keys-basics.md)
 4. [Safe Storage Tips](../../fundamentals/en/4-safe-storage-basics.md)
-5. [Unstoppable Wallet](../../fundamentals/en/5-unstoppable-basics.md)
+5. [Metaegg DeFi Wallet](../../fundamentals/en/5-metaegg-basics.md)
 6. [Buying Cryptocurrency](../../fundamentals/en/6-buying-cryptocurrency-basics.md)
 7. [Spending Cryptocurrency](../../fundamentals/en/7-spending-cryptocurrency.md)
 8. [Transactions Explained](../../fundamentals/en/8-transactions-basics.md)
