@@ -1,4 +1,7 @@
 
+![$MDEFI](https://user-images.githubusercontent.com/98596722/188339323-db9fc323-5ca4-4f97-9abc-1f8ccad60db7.png)
+
+
 
 Metaegg ($MDEFI) - The PEOPLE’S DEFI DONE RIGHT
 
