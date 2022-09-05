@@ -68,9 +68,9 @@ The anti-whale dumping mechanism goes a step further to protect investors by cap
 
 **✅  BOT PROOF DUE TO TRANSACTION TAX SYSTEM**
 
-**✅  5,052,000 INITIAL CIRCULATING SUPPLY**
+**✅  4,000,000 INITIAL CIRCULATING SUPPLY**
 
-**✅  $202K INITIAL MARKET-CAP**
+**✅  $160K INITIAL MARKET-CAP**
 
 **✅  75M $MDEFI MAX SUPPLY**  
 
