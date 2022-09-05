@@ -3,7 +3,7 @@
 
 
 
-# Metaegg DeFi ($MDEFI) - The PEOPLE’S DEFI In Simple Terms
+# Metaegg DeFi ($MDEFI) In Simple Terms
 
 $MDEFI is a revolutionary project introducing a pure BNB reflective mechanism with an auto-claim feature, dynamic dividends, and taxation fully controlled by the community, empowering holders to become BNB-wealthy forever.
 
