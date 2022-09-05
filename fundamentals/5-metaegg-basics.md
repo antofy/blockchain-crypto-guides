@@ -14,7 +14,7 @@ From user's perspective, basic expectations from any non-custodial wallet app sh
 
 Apart from the above must-haves, there may be other expectations from the wallet depending on the target user. Someone looking for extensive privacy may require extra private features which are not available in most wallet apps.
 
-> **Disclaimer: The Metaegg DeFi was built by [Horizontal Systems](https://horizontalsystems.io), the company behind these guides.**
+> **Disclaimer: The Metaegg DeFi wallet was built by Metaegg DeFi, the company behind these guides.**
 
 Below we will go through some important points to keep in mind when using non-custodial wallet apps. We are going to use Metaegg DeFi wallet app to illustrate these important aspects. 
 
@@ -78,7 +78,7 @@ A wallet like Metaegg DeFi can notify the user when the asset price has experien
 
 ![portrait](https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/master/fundamentals/images/05-07-s.png)
 
-Moreover, the Unstoppable can send alerts when the price trend for cryptocurrency changes indicating a good time to purchase or sell any given cryptocurrency.
+Moreover, the Metaegg DeFi can send alerts when the price trend for cryptocurrency changes indicating a good time to purchase or sell any given cryptocurrency.
 
 ### 7. Privacy
 
@@ -98,13 +98,13 @@ Certain points should be taken into consideration when evaluating non-custodial 
     
     While this method is convenient for the wallet provider it can potentially expose some info about user's balance and transactions.
     
-    To address this, some wallets like Unstoppable support restoring directly from the blockchain network itself rather than via a third-party server. This ensures that wallet provider has no clue about balance or transactions of the user.
+    To address this, some wallets like Metaegg DeFi support restoring directly from the blockchain network itself rather than via a third-party server. This ensures that wallet provider has no clue about balance or transactions of the user.
     
 - **Blockchain Privacy**
 
     Different blockchains provide varying level of privacy: when you transact in Bitcoin the level of privacy is higher than when compared to Ethereum. 
     
-    Certain non-custodial wallets may have additional features which increase the privacy on that specific blockchain. For instance, Unstoppable wallet app integrates certain instruments which make it significantly more difficult linking different blockchain transactions to a single entity. 
+    Certain non-custodial wallets may have additional features which increase the privacy on that specific blockchain. For instance, Metaegg DeFi wallet app integrates certain instruments which make it significantly more difficult linking different blockchain transactions to a single entity. 
     
 While many wallets brand themselves as non-custodial and peer to peer they may still have privacy risks. The most private wallet is the one which knows absolutely nothing about the user.
 
