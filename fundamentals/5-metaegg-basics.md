@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/master/fundamentals/images/05-main-l.png)
 
-# Unstoppable Wallet
+# Metaegg DeFi Wallet
 
 In this section we will focus on practical aspects and go through 'things to know' when using non-custodial wallet apps.
 
@@ -14,9 +14,9 @@ From user's perspective, basic expectations from any non-custodial wallet app sh
 
 Apart from the above must-haves, there may be other expectations from the wallet depending on the target user. Someone looking for extensive privacy may require extra private features which are not available in most wallet apps.
 
-> **Disclaimer: The [Unstoppable Wallet](https://unstoppable.money) was built by [Horizontal Systems](https://horizontalsystems.io), the company behind these guides.**
+> **Disclaimer: The Metaegg DeFi was built by [Horizontal Systems](https://horizontalsystems.io), the company behind these guides.**
 
-Below we will go through some important points to keep in mind when using non-custodial wallet apps. We are going to use Unstoppable wallet app to illustrate these important aspects. 
+Below we will go through some important points to keep in mind when using non-custodial wallet apps. We are going to use Metaegg DeFi wallet app to illustrate these important aspects. 
 
 ### 1. Setup / Restore 
 
@@ -25,7 +25,7 @@ Every non-custodial wallet starts either with the process of a wallet setup or m
 ![portrait](https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/master/fundamentals/images/05-02-s.png)
 
 - The 'Create Wallet' button generates a new private key and shows it in a form of 12 words which needs to be backed up.
-- The 'Restore Wallet' option restores an existing wallet that might have been created earlier in Unstoppable or some other standard compliant wallet. 
+- The 'Restore Wallet' option restores an existing wallet that might have been created earlier in Metaegg DeFi or some other standard compliant wallet. 
 
 Keep in mind that non-custodial wallets will require anywhere from a few minutes to a couple of hours to complete restore process. 
 
@@ -55,7 +55,7 @@ While for some cryptocurrencies transactions are cheap for other the fees can be
 
 While there are a lot of different cryptocurrencies there is lack of information describing these projects in accessible manner. Many projects are fairly obscure even for the experienced newcomers with a technical background.
 
-Unstoppable aims to provide a comprehensive overview for various cryptocurrencies in simple terms.
+Metaegg DeFi aims to provide a comprehensive overview for various cryptocurrencies in simple terms.
 
 ![portrait](https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/master/fundamentals/images/05-05-s.png)
 
@@ -73,7 +73,7 @@ Historical prices provide an overview of how the price of the cryptocurrency has
 
 In addition to price charts it is helpful to have notifications for price changes.
 
-A wallet like Unstoppable can notify the user when the asset price has experienced a change over 2/3/5% in 24-hour period. 
+A wallet like Metaegg DeFi can notify the user when the asset price has experienced a change over 2/3/5% in 24-hour period. 
 
 ![portrait](https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/master/fundamentals/images/05-07-s.png)
 
