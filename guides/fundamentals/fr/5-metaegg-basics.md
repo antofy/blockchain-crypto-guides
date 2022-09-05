@@ -1,6 +1,6 @@
 ![](../images/05-main-l.png)
 
-# Unstoppable Wallet
+# Metaegg DeFi Wallet
 
 Dans cette section, nous nous concentrerons sur les aspects pratiques et passerons en revue les `` choses à savoir '' lors de l'utilisation d'applications de portefeuille non-privatifs de liberté.
 
@@ -14,18 +14,19 @@ Du point de vue de l'utilisateur, les attentes de base de toute application de c
 
 Outre les incontournables mentionnés ci-dessus, il peut y avoir d'autres exigences à l'égard du portefeuille selon l'utilisateur cible. Une personne qui cherche à préserver sa vie privée peut avoir besoin de fonctionnalités privatives supplémentaires qui ne sont pas disponibles dans la plupart des applications de portefeuille.
 
-> **Avertissement: [Unstoppable Wallet](https://unstoppable.money) a été conçu par [Horizontal Systems](https://horizontalsystems.io), la société à l'origine de ces guides.**
+> **Avertissement: Metaegg DeFi wallet a été conçu par Metaegg DeFi, la société à l'origine de ces guides.**
 
-Dans les pages qui suivent, nous allons passer en revue quelques points importants à garder en tête lorsque l'on utilise des applications de portefeuille non-privatives de liberté. Nous allons utiliser l'application Unstoppable Wallet pour illustrer ces aspects importants.
+Dans les pages qui suivent, nous allons passer en revue quelques points importants à garder en tête lorsque l'on utilise des applications de portefeuille non-privatives de liberté. Nous allons utiliser l'application Metaegg DeFi Wallet pour illustrer ces aspects importants.
 
 ### 1. Configuration / Restauration 
 
 Tout portefeuille non-privatif commence soit par la mise en place d'un portefeuille, soit par la migration du portefeuille existant.
 
-![portrait](../images/05-02-s.png)
+
+![1](https://user-images.githubusercontent.com/98596722/188339773-2fe22b96-88cf-4246-9424-ac669be3360a.png)
 
 - Le bouton "Créer un portefeuille" génère une nouvelle clé privée et l'affiche sous la forme de 12 mots qui doivent être sauvegardés.
-- L'option "Restaurer le portefeuille" permet de restaurer un portefeuille existant qui aurait pu être créé plus tôt dans Unstoppable ou un autre portefeuille conforme aux normes.
+- L'option "Restaurer le portefeuille" permet de restaurer un portefeuille existant qui aurait pu être créé plus tôt dans Metaegg DeFi ou un autre portefeuille conforme aux normes.
 
 Sachez qu'il faut compter entre quelques minutes et quelques heures pour restaurer un portefeuille non-privatif de liberté.
 
@@ -55,7 +56,7 @@ Bien que pour certaines cryptomonnaies les transactions soient bon marché, pour
 
 Bien qu'il existe un grand nombre de cryptomonnaies différentes, il y a un manque d'informations permettant de décrire ces projets de manière accessible. De nombreux projets sont assez obscurs, même pour les nouveaux venus expérimentés ayant une formation technique.
 
-Unstoppable a pour objectif de fournir un aperçu complet des différentes cryptomonnaies en termes simples.
+Metaegg DeFi a pour objectif de fournir un aperçu complet des différentes cryptomonnaies en termes simples.
 
 ![portrait](../images/05-05-s.png)
 
@@ -73,11 +74,11 @@ Les prix historiques donnent un aperçu de l'évolution du prix de la cryptomonn
 
 En plus des tableaux de prix, il est utile de recevoir des notifications pour les changements de taux.
 
-Un portefeuille tel qu'Unstoppable peut avertir l'utilisateur lorsque le prix de l'actif a connu une variation de plus de 2/3/5 % en 24 heures. 
+Un portefeuille tel qu'Metaegg DeFi peut avertir l'utilisateur lorsque le prix de l'actif a connu une variation de plus de 2/3/5 % en 24 heures. 
 
 ![portrait](../images/05-07-s.png)
 
-De plus, Unstoppable peut envoyer des alertes lorsque la tendance des prix de la cryptomonnaie change, afin d'indiquer le bon moment pour acheter ou vendre une cryptomonnaie donnée.
+De plus, Metaegg DeFi peut envoyer des alertes lorsque la tendance des prix de la cryptomonnaie change, afin d'indiquer le bon moment pour acheter ou vendre une cryptomonnaie donnée.
 
 ### 7. Confidentialité
 
@@ -97,13 +98,13 @@ Certains points doivent être pris en considération lors de l'évaluation des c
     
     Bien que cette méthode soit pratique pour le fournisseur de portefeuille, elle peut potentiellement exposer certaines informations sur le solde et les transactions de l'utilisateur.
     
-    Pour y remédier, certains portefeuilles comme Unstoppable prennent en charge la restauration directement depuis le réseau blockchain lui-même plutôt que via un serveur tiers. Ceci garantit que le fournisseur de portefeuille n'a aucune idée du solde ou des transactions de l'utilisateur.
+    Pour y remédier, certains portefeuilles comme Metaegg DeFi prennent en charge la restauration directement depuis le réseau blockchain lui-même plutôt que via un serveur tiers. Ceci garantit que le fournisseur de portefeuille n'a aucune idée du solde ou des transactions de l'utilisateur.
     
 - **Confidentialité de la blockchain**
 
     Le niveau de confidentialité varie en fonction des blockchains : lorsque vous effectuez une transaction avec Bitcoin, le niveau de confidentialité est plus élevé que celui d'Ethereum.
     
-    Certains portefeuilles non-privatifs de liberté peuvent présenter des caractéristiques supplémentaires qui renforcent la protection de la vie privée sur cette blockchain spécifique. Par exemple, l'application "Unstoppable Wallet" intègre certains instruments qui rendent beaucoup plus difficile la liaison de différentes transactions de blockchain à une seule entité.
+    Certains portefeuilles non-privatifs de liberté peuvent présenter des caractéristiques supplémentaires qui renforcent la protection de la vie privée sur cette blockchain spécifique. Par exemple, l'application "Metaegg DeFi Wallet" intègre certains instruments qui rendent beaucoup plus difficile la liaison de différentes transactions de blockchain à une seule entité.
     
 Bien que de nombreux portefeuilles s'affichent comme non-privatifs de liberté et de pair à pair, ils peuvent néanmoins présenter des risques en matière de confidentialité. Le portefeuille le plus confidentiel est celui qui ne sait absolument rien de l'utilisateur.
 
