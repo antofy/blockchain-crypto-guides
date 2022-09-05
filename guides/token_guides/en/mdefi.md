@@ -39,9 +39,9 @@ $MDEFI & BNB returns are automatically sent to token holders’ wallets as long 
 
 **💹 Buy/Sell Transaction tax - Bots hate It**
 
-## - 3% tax is charged on all transactions, going directly to $MDEFI coin holders, allowing them to earn a passive income simply for HODLing.
+- 3% tax is charged on all transactions, going directly to $MDEFI coin holders, allowing them to earn a passive income simply for HODLing.
 
-## - 2% of the transaction fees goes toward increasing $MDEFI liquidity, raising the token’s price floor to combat price fluctuations.
+- 2% of the transaction fees goes toward increasing $MDEFI liquidity, raising the token’s price floor to combat price fluctuations.
 
 ## 🛡Protects Against Price Manipulation
 
